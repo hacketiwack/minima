@@ -12,11 +12,8 @@ description: >
 
 # Build settings
 
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+favicon:
+  source: assets/favicon.svg
 
 # Theme-specific settings
 
